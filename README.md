@@ -14,3 +14,4 @@
 ### Style Guides
 
 [Google: Style Guides](https://google.github.io/styleguide/)
+[Airbnb: JavaScript](https://github.com/airbnb/javascript)
