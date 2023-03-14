@@ -14,13 +14,3 @@
 ### Style Guides
 
 [Github: References](https://github.com/topics/style-guide)
-
-<hr/>
-
-[Google: Style Guides](https://google.github.io/styleguide/)
-
-[Airbnb: JavaScript](https://github.com/airbnb/javascript)
-
-[Standard: JavaScript](https://github.com/standard/standard)
-
-[Agis: Git](https://github.com/agis/git-style-guide)
